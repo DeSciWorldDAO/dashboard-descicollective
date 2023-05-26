@@ -1,4 +1,4 @@
-# dashboard-descicollective
-DeSci Collective dashboard code
+## Please feel free to pull a request in case you see any errors in the project's dashboard at https://desci.world/dashboard
 
-```{"_id":{"$oid":"6333d46989588cc81d14039b"},"name":"DeSci Collective","tokenSymbol":null,"DaoOS":"Snapshot","address":null,"description":"A member-only collective of scientists, researchers, investors, and leaders in different scientific fields that are looking to innovate and build in the decentralized science space. By empowering people DeSci Collective is making science accessible to the people with the power to progress it.\",\n\"whitePaperLink\":”DeSci Collective Manifesto v0.1","gallery":[{"name":"Intro","description":"Intro","mediaUrl":"https://i.imgur.com/giTalXN.png","source":"image","link":"https://mintable.app/DeSciCollective"}],"deleted":false,"primaryColor":"#676868","twitterHandle":"DeSciCollective","coingeckoId":null,"snapshotId":null,"logo":"https://i.imgur.com/8GXQQnf.png","telegramLink":null,"discordLink":"https://discord.gg/KtjXYsjBB7","website":"https://mintable.app/DeSciCollective","tokenDescription":null,"tokenTradeLink":null,"tags":["Science DeFi","Ecosystems","Decentralized Funding","NFTs","Focused Research"]}```
+
+
